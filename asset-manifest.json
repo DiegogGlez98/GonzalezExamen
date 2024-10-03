@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GonzalezExamen/static/css/main.ad20e9b6.css",
-    "main.js": "/GonzalezExamen/static/js/main.9d31ac06.js",
+    "main.js": "/GonzalezExamen/static/js/main.1ab95c64.js",
     "static/media/hero-image-1.png": "/GonzalezExamen/static/media/hero-image-1.33f10ca8d00cbcdb340e.png",
     "static/media/header.jpg": "/GonzalezExamen/static/media/header.2cb9b14bf49346eb410d.jpg",
     "static/media/hero-image-2.png": "/GonzalezExamen/static/media/hero-image-2.876d72184b5448408fd8.png",
@@ -19,6 +19,7 @@
     "static/media/hero-image-3.png": "/GonzalezExamen/static/media/hero-image-3.c3efe2e448da3816cf3b.png",
     "static/media/eva.jpg": "/GonzalezExamen/static/media/eva.258d5c64c8708a5ce23b.jpg",
     "static/media/ryan.jpg": "/GonzalezExamen/static/media/ryan.ca24473bc1e6d20bf0d1.jpg",
+    "static/media/GonzálezHerrera-removebg-preview.png": "/GonzalezExamen/static/media/GonzálezHerrera-removebg-preview.0655de88b2e2adaa092a.png",
     "static/media/julie.jpg": "/GonzalezExamen/static/media/julie.00733edf41a7831227f2.jpg",
     "static/media/creative-tim-white-slim2.png": "/GonzalezExamen/static/media/creative-tim-white-slim2.c9b2f68e52151075edf1.png",
     "static/media/avatar.jpg": "/GonzalezExamen/static/media/avatar.21d108f80102dc685d9b.jpg",
@@ -31,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.ad20e9b6.css",
-    "static/js/main.9d31ac06.js"
+    "static/js/main.1ab95c64.js"
   ]
 }
