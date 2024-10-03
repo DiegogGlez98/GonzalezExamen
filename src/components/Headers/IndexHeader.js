@@ -37,10 +37,10 @@ function IndexHeader() {
             <img
               alt="..."
               className="n-logo"
-              src={require("assets/GonzálezHerrera.png")}
+              src={require("assets/GonzálezHerrera-removebg-preview.png")}
             ></img>
             <h1 className="h1-seo">Universidad Tecnologica de Durango</h1>
-            <h3>Mombre del Alumno:Gonzalez Herrera Diego</h3>
+            <h3>Nombre del Alumno:Gonzalez Herrera Diego</h3>
             <h4>GESTION DEL PROCESO DE SOFTWARE</h4>
             <h4>PARCIAL 1</h4>
           </div>
